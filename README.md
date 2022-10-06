@@ -17,7 +17,6 @@ Author: Jiayin Meng
 <img src = "./assets/add_result_2.png" width = 40%>
 
 ## Image Enhancement Tasks
-### Contrast Enhancement
 
 ### Color Enhancement
 <img src = "./assets/color_enhance.png" width = 70%>
