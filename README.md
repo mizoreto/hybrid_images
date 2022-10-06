@@ -15,3 +15,10 @@ Author: Jiayin Meng
 ### Additional Hybrid Image Result
 <img src = "./assets/add_result_1.png" width = 70%>
 <img src = "./assets/add_result_2.png" width = 40%>
+
+## Image Enhancement Tasks
+### Contrast Enhancement
+
+### Color Enhancement
+
+### Color Shift
