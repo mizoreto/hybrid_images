@@ -22,5 +22,5 @@ Author: Jiayin Meng
 ### Color Enhancement
 
 ### Color Shift
-<img src = "./assets/color_shift.png" width = 40%>
-<img src = "./assets/color_shift_1.png" width = 40%>
+<img src = "./assets/color_shift.png" width = 20%>
+<img src = "./assets/color_shift_1.png" width = 50%>
