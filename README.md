@@ -23,4 +23,4 @@ Author: Jiayin Meng
 
 ### Color Shift
 <img src = "./assets/color_shift.png" width = 30%>
-<img src = "./assets/color_shift_1.png" width = 60%>
+<img src = "./assets/color_shift_1.png" width = 70%>
