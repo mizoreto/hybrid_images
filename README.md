@@ -9,5 +9,5 @@ Author: Jiayin Meng
 ### Hybrid Image Result
 <img src = "./assets/main_result.png" width = 50%>
 
-## FFT images of each original and filtered image and the hybrid image
+### FFT images of each original and filtered image and the hybrid image
 <img src = "./assets/fft.png" width = 70%>
